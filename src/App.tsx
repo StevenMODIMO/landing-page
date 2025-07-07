@@ -1,7 +1,7 @@
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Features from "./components/Features";
-// import Cookies from "./components/Cookies";
+import Cookies from "./components/Cookies";
 
 export default function App() {
   return (
@@ -10,7 +10,7 @@ export default function App() {
         <Navbar />
         <Hero />
         <Features />
-        {/* <Cookies /> */}
+        <Cookies />
       </div>
     </div>
   );
