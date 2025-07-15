@@ -1,1 +1,1 @@
-## React Landing Page
+## React.js Landing Page
